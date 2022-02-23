@@ -1,0 +1,6 @@
+C:\Users\Tom\Desktop\Connect4\Logic\bin\Debug\Logic.dll
+C:\Users\Tom\Desktop\Connect4\Logic\bin\Debug\Logic.pdb
+C:\Users\Tom\Desktop\Connect4\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\Connect4\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\Connect4\Logic\obj\Debug\Logic.dll
+C:\Users\Tom\Desktop\Connect4\Logic\obj\Debug\Logic.pdb
